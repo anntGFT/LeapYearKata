@@ -4,17 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12848421-c0ce-4479-8b61-a9861b50533c" name="Changes" comment="" />
+    <list default="true" id="12848421-c0ce-4479-8b61-a9861b50533c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/gft/Year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/gft/LeapYearTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2FOiiQbPEP0zQCM29wEJYj03kBd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +43,110 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/traingft/IdeaProjects/LeapYearKata"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.gft" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.gft" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LeapYearTest">
+    <configuration name="LeapYearTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeapYearKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gft" />
+      <option name="MAIN_CLASS_NAME" value="org.gft.LeapYearTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYearTest.LeapYearDivisibleBy4 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeapYearKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gft" />
+      <option name="MAIN_CLASS_NAME" value="org.gft.LeapYearTest" />
+      <option name="METHOD_NAME" value="LeapYearDivisibleBy4(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYearTest.LeapYearDivisibleBy400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeapYearKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gft" />
+      <option name="MAIN_CLASS_NAME" value="org.gft.LeapYearTest" />
+      <option name="METHOD_NAME" value="LeapYearDivisibleBy400(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYearTest.LeapYearNotDivisibleBy4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeapYearKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gft" />
+      <option name="MAIN_CLASS_NAME" value="org.gft.LeapYearTest" />
+      <option name="METHOD_NAME" value="LeapYearNotDivisibleBy4(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeapYearTest.LeapYearNotDivisibleBy400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeapYearKata" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.gft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.gft" />
+      <option name="MAIN_CLASS_NAME" value="org.gft.LeapYearTest" />
+      <option name="METHOD_NAME" value="LeapYearNotDivisibleBy400(int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LeapYearTest" />
+        <item itemvalue="JUnit.LeapYearTest.LeapYearDivisibleBy4 (1)" />
+        <item itemvalue="JUnit.LeapYearTest.LeapYearNotDivisibleBy4" />
+        <item itemvalue="JUnit.LeapYearTest.LeapYearNotDivisibleBy400" />
+        <item itemvalue="JUnit.LeapYearTest.LeapYearDivisibleBy400" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,8 +155,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664369659460</updated>
+      <workItem from="1668609737409" duration="1161000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
